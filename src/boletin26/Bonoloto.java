@@ -128,6 +128,7 @@ public class Bonoloto extends javax.swing.JFrame {
             }
         }
         System.out.println("Numero aciertos: " + cont);
+        rnd.clear();
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jTable1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTable1MouseClicked
